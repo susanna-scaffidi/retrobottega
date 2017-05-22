@@ -26,6 +26,10 @@ h3 {
     border-color: #6ca441; 
 }
 
+.contact {
+	background-color: #ecebe6;	
+}
+
 .jumbotron {
 	background: url("../images/rb9.jpg") no-repeat;
 	background-size: cover;
@@ -67,10 +71,6 @@ h3 {
 
 .row-services {
 	padding: 30px 10% 30px 10%;
-}
-
-.thumbnail .garden {
-	background: url("./images/t1.jpg") no-repeat;
 }
 
 @media (max-width: 750px) {
