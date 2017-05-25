@@ -22,8 +22,12 @@ h3 {
 }
 
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active {
-    background-color: #95ce69;
-    border-color: #6ca441; 
+    	background-color: #95ce69;
+    	border-color: #6ca441; 
+}
+
+.button {
+	padding-top: 10px;
 }
 
 .jumbotron {
@@ -58,12 +62,12 @@ h3 {
 }
 
 .row-form>.col-lg-12 {
-    padding: 50px 0 50px 0;
+    	padding: 50px 0 50px 0;
 }
 
 .row-form {
-    background-color: #f1fbd8;	
-    padding: 0px 10% 100px 10%;
+    	background-color: #f1fbd8;	
+    	padding: 0px 10% 100px 10%;
 }
 
 .row-services {
