@@ -26,10 +26,6 @@ h3 {
     border-color: #6ca441; 
 }
 
-.btn, .btn-success {
-	margin: 20px 0 0 0;
-}
-
 .jumbotron {
 	background: url("../images/rb9.jpg") no-repeat;
 	background-size: cover;
